@@ -56,11 +56,3 @@ My work includes projects spanning machine learning, data analysis, software eng
 Python | Machine Learning | Data Analysis | Data-Driven Systems
 
 Git | GitHub | Analytical Modeling | Problem Solving
-
----
-
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ananya-ajith-kallungal\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-ajith-kallungal\&layout=compact)
