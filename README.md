@@ -45,7 +45,7 @@ This project focuses on enabling effective communication through assistive techn
 
 I enjoy working on machine learning, data-driven applications, and intelligent systems that solve practical challenges. Alongside my engineering background, I contribute to collaborative technology projects involving software development, analytics, and accessibility-focused solutions.
 
-My work includes projects spanning machine learning, data analysis, software engineering, and technology-driven systems designed to create meaningful real-world impact.
+My work includes projects spanning machine learning, data analysis, software engineering, and technology-driven systems designed to create meaningful real world impact.
 
 * Project Ecosystem: [Engineering Project Portfolio](https://anandps.in/#projects)
 
